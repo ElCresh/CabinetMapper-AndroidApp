@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CabinetMapper</string>
+    <string name="banner_ad_app_id">ca-app-pub-3408470268617940~6160733112</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3408470268617940/7637466316</string>
+    <string name="telecom">Telecom</string>
+    <string name="vodafone">Vodafone</string>
+    <string name="fastweb">Fastweb</string>
+    <string name="send_report">Send Report</string>
+    <string name="code">Code</string>
+    <string name="settings">Settings</string>
+    <string name="device_not_auth">Device not authorized.\nPelese register and acrivare your device at cabinetmapper.andreacrescentini.com\nYou can find your device ID into settings.</string>
+    <string name="report_send">Report sent successfully! Thanks for your report.</string>
+    <string name="report_error">Unable to send report! Sorry for the issue. Plese try again.</string>
+    <string name="select_operator">Please select operator before submit report!</string>
+    <string name="insert_code">Please insert cabinet code before submit report!</string>
+    <string name="gps_enabled">GPS Enabled. Waiting for poisition...</string>
+    <string name="gps_disabled">GPS Disabled</string>
+    <string name="gps_unavailable">Unable to access GPS data</string>
+    <string name="app_restart">Please autorize GPS service and restart app!</string>
+    <string name="app_not_update">Your app is not updated! Plese update it from PlayStore.</string>
+    <string name="app_version">en</string>
+    <string name="banned_user">Sorry but you account is banned.</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="wait_gps_fix">Please wait fix GPS</string>
+    <string name="wait_gps_fix_report">Please wait fix GPS before submit report!</string>
+    <string name="slow_internet_title">Slow internet connection</string>
+    <string name="slow_internet">Warning! Slow connection detected. We are unable to ensure that the app work as expected.</string>
+    <string name="wifi_detected">A WiFi connection has been detected. It will be used for localizazione instead of GPS. If you want to use GPS please tourn WiFi off.</string>
+    <string name="wifi_detected_title">WiFi connection detected</string>
+    <string name="savedreport">Saved report</string>
+    <string name="report_cabinet">Report Cabinet</string>
+    <string name="centrale">Centrale</string>
+    <string name="report_send_title">Report sent successfully</string>
+    <string name="report_error_title">Unable to send report</string>
+    <string name="warning">Warning</string>
+    <string name="point_warning">Because of the hight number of point on map we suggest to maintain a discreet zoom level or to use our website. Thanks for understanding.</string>
+    <string name="new_uuid_title">New UUID</string>
+    <string name="new_uuid">We adopted a new UUID system for authorised device recognition. The device need to be reauthorized.</string>
+</resources>

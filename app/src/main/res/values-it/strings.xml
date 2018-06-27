@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CabinetMapper</string>
+    <string name="banner_ad_app_id">ca-app-pub-3408470268617940~6160733112</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3408470268617940/7637466316</string>
+    <string name="telecom">Telecom</string>
+    <string name="vodafone">Vodafone</string>
+    <string name="fastweb">Fastweb</string>
+    <string name="send_report">Invia Report</string>
+    <string name="code">Codice</string>
+    <string name="settings">Impostazioni</string>
+    <string name="device_not_auth">Dispositivo non autorizzato.\nRegistrati e abilita il tuo dispositivo su cabinetmapper.andreacrescentini.com\nTrovi l\'id del tuo dispositivo nelle impostazioni.</string>
+    <string name="report_send">Report inviato con successo! Grazie per la segnalazione.</string>
+    <string name="report_error">Impossibile inviare report! Ci dispiace per l\'iconveniente. Ti invitiamo a provare nuovmaente.</string>
+    <string name="select_operator">Scegli l\'operatore prima di inviare il report!</string>
+    <string name="insert_code">Inserisci il codice del cabinet prima di inviare il report!</string>
+    <string name="gps_enabled">GPS Abilitato. In attesa della posizione...</string>
+    <string name="gps_disabled">GPS Disabilitato</string>
+    <string name="gps_unavailable">Impossibile accedere ai dati GPS</string>
+    <string name="app_restart">Autorizza l\'utilizzo del GPS e riavvia l\'app!</string>
+    <string name="app_not_update">La tua applicazione non è aggiornata! Per favore aggiornala dal PlayStore.</string>
+    <string name="app_version">it</string>
+    <string name="banned_user">Ci dispiace ma il tuo account risulta bannato.</string>
+    <string name="name">Nome</string>
+    <string name="username">Username</string>
+    <string name="wait_gps_fix_report">Attendi la localizazione GPS prima di inviare il report!</string>
+    <string name="wait_gps_fix">Attendi la localizazione GPS</string>
+    <string name="slow_internet_title">Connessione internet lenta</string>
+    <string name="slow_internet">Attenzione! La connessione rilevata è stata identificata come lenta. Non si garantisca una corretta esperienza di utilizzo.</string>
+    <string name="wifi_detected">E\' stata rilevata una connessione WiFi. Verrà utilizzata questa per la localizzazione rispetto al GPS. Se si vuole utilizzare il GPS si prega di diattivare il WiFi.</string>
+    <string name="wifi_detected_title">Rilevata connessione WiFi</string>
+    <string name="savedreport">Segnalazioni salvate</string>
+    <string name="report_cabinet">Report Cabinet</string>
+    <string name="centrale">Centrale</string>
+    <string name="report_send_title">Report inviato con successo</string>
+    <string name="report_error_title">Impossibile inviare report</string>
+    <string name="warning">Attenzione</string>
+    <string name="point_warning">A causa dell\'elevato numero di punti presenti nella mappa si sugerisce di mantenere un discreto livello di zoom o di utilizzare il sito. Grazie per la comprensione.</string>
+    <string name="new_uuid_title">Nuovo UUID</string>
+    <string name="new_uuid">Abbiamo adottato un nuovo sistema di UUID per il riconoscimento dei dispositivi autorizzati. Il dispositivo necessita di essere riautorizzato.</string>
+</resources>
