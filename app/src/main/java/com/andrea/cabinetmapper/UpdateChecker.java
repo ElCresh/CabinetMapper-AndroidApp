@@ -2,7 +2,7 @@ package com.andrea.cabinetmapper;
 
 public final class UpdateChecker {
     public static boolean isUpdated(){
-        String APP_VERSION = "1.8.0";
+        String APP_VERSION = "1.8.1";
         boolean result = false;
 
         UpdateCheckerThread uc = new UpdateCheckerThread();

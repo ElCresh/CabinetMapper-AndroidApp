@@ -14,7 +14,9 @@ import java.util.Scanner;
 public class UpdateCheckerThread extends Thread {
     private String response;
 
-    public UpdateCheckerThread(){}
+    UpdateCheckerThread(){
+        this.response = "";
+    }
 
     public void run(){
         String jsonAPI = "http://cabinetmapper.andreacrescentini.com:8090/version/android";
@@ -29,7 +31,7 @@ public class UpdateCheckerThread extends Thread {
                 Scanner s = new Scanner(is).useDelimiter("\\A");
                 response = s.hasNext() ? s.next() : "";
                 parseResponse();
-            } catch (IOException e) {
+            } catch (IOException | JSONException e) {
                 e.printStackTrace();
             } catch (JSONException e) {
                 e.printStackTrace();

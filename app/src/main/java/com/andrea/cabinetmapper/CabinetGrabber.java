@@ -34,15 +34,11 @@ public class CabinetGrabber extends Thread {
                 Scanner s = new Scanner(is).useDelimiter("\\A");
                 response = s.hasNext() ? s.next() : "";
                 parseResponse();
-            } catch (IOException e) {
-                e.printStackTrace();
-            } catch (JSONException e) {
+            } catch (IOException | JSONException e) {
                 e.printStackTrace();
             } finally {
                 urlConnection.disconnect();
             }
-        } catch (MalformedURLException e) {
-            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }
